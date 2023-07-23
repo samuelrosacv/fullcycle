@@ -1,0 +1,27 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "\"Desafio 2 FullCycle\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelrosacv/fullcycle.git#main"
+  },
+  "author": "Samuel Rosa dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelrosacv/fullcycle/issues"
+  },
+  "homepage": "https://github.com/samuelrosacv/fullcycle/tree/main#readme",
+  "dependencies": {
+    "@handlebars/allow-prototype-access": "^1.0.5",
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.5.2",
+    "sequelize": "^6.32.1"
+  }
+}
